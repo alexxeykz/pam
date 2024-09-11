@@ -194,6 +194,7 @@ Welcome to Ubuntu 22.04.3 LTS (GNU/Linux 5.15.0-92-generic x86_64)
 This system is built by the Bento project by Chef Software
 More information can be found at https://github.com/chef/bento
 ```
+```
 root@testvm:/home/pam2# ssh days@192.168.56.110
 days@192.168.56.110's password:
 /usr/local/bin/is-admin.sh failed: exit code 1
